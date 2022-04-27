@@ -9,7 +9,8 @@ h1 {
 
 .section-content {
   color: #2c3e50;
-  border: 1px solid #9b59b6;
+  background-color: beige;
+  border: 1px solid black;
   padding: 0 10px 10px 10px;
   margin: 10px;
 }
